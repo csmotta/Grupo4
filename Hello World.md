@@ -1,3 +1,0 @@
-Hello World!
-Hello again...
-Esta é a 3º alteração
