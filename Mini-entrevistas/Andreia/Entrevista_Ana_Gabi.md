@@ -1,6 +1,7 @@
 ---
 Metadados:
 
+Título: "Encontros e Sonhos: Ana Gabriela e Tatiana"
 Data da entrevista: 04/03/2025
 Entrevistadora: Andreia Gonçalves
 Entrevistada: Ana Gabriela Faria
